@@ -65,4 +65,25 @@ estratégicos para a empresa."
  - O nosso BdDados Resilia é composto por 9 Tabelas, sendo elas; 
  **Curso, Modulo, Turma, Monitor, Facilitador_Tech, facilitator_Soft, Alunos, Log e Patrocinador** 
 
+### Modelagem do banco de Dados:
+![Modelagem do banco de dados ](https://github.com/luisgoni/Trabalho_Grupo_BDDados_Mod3REsilia/blob/main/trabalho_MOD3_Grupo/Criando_tabelas/diagrama%20com%20suas%20rela%C3%A7oes%20.png?raw=true)
+
+### Como utilizar nosso Banco de Dados;
+- Pré-requisitos
+PostgreSQL instalado e configurado
+PgAdmin instalado (disponível em: https://www.pgadmin.org/download/),
+- Faça o download do repositório ou clone-o para o seu ambiente local.
+-  Uso
+Abra o pgAdmin e conecte-se ao seu servidor PostgreSQL.
+
+ Crie um novo banco de dados no pgAdmin para usar no aplicativo.
+
+ Certifique-se de ter tres arquivos: um arquivo de criação das tabelas (CT_Tabela.sql), e um arquivo de dados de população (PopulandoTabelas.sql), e outro com as perguntas e as queries() Você pode nomeá-los como preferir, mas certifique-se de que os arquivos estejam no formato SQL e que sejam compatíveis com o PostgreSQL.
+
+ Abra o arquivo CT_Tabela.sql, copie o conteudo do arquivo, cole e execute-o no pgAdmin para criar as tabelas no banco de dados que você criou.
+
+ Abra o arquivo PopulandoTabelas.sql, copie o conteudo do arquivo, cole e execute-o no pgAdmin para inserir os dados nas tabelas correpondentes.
+
+ Após seguir essas etapas, seu banco de dados PostgreSQL estará criado e populado com as tabelas e dados especificados nos arquivos.
+ 
 
