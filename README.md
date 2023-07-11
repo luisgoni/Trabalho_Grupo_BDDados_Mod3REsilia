@@ -65,4 +65,4 @@ estratégicos para a empresa."
  - O nosso BdDados Resilia é composto por 9 Tabelas, sendo elas; 
  **Curso, Modulo, Turma, Monitor, Facilitador_Tech, facilitator_Soft, Alunos, Log e Patrocinador** 
 
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/64ac371302bd1c4a5ed15002'> </iframe>
+
