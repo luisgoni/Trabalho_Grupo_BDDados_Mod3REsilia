@@ -1,4 +1,4 @@
-# <font  color="#DAA520">Resilia - Banco de Dados Resilia - Data Analytics: Módulo 3</font>
+# <font color="#DAA520">Resilia - Banco de Dados Resilia - Data Analytics:Módulo 3</font>
 
 ### Projeto realizado :
 
@@ -17,7 +17,7 @@ de ensino da empresa.
 - Para isso, vocês devem se atentar para o descritivo que será apresentado a
 seguir:
     
-"Hoje dentro da Resilia, são armazenadas diversas informações do braço deensino da empresa como dados sobre os estudantes, pessoas facilitadoras,
+"Hoje dentro da Resilia, são armazenadas diversas informações do braço de ensino da empresa como dados sobre os estudantes, pessoas facilitadoras,
 turmas, módulos e cursos em planilhas. Essas informações são colocadas
 em planilhas diferentes, dificultando muitas das vezes a extração de dados
 estratégicos para a empresa."
@@ -50,10 +50,20 @@ estratégicos para a empresa."
  ● Além disso, vocês deverão pensar em mais uma questão que deverá ser respondida por scripts SQL que combine pelo menos 3 tabelas.
 
 ---
-### REQUISITOS
+### REQUISITOS  
  ■ Representação das entidades e os respectivos atributos de cada uma delas;
+
  ■ Modelagem completa do banco de dados com entidades, atributos e relacionamentos;
+
  ■ Scripts SQL de criação do banco de dados e das respectivas tabelas com seus atributos e chaves;
+
  ■ Scripts SQL de inserção dos dados nas respectivas tabelas;
+
  ■ Scripts SQL com a resolução das 5 questões estratégicas da empresa (especificadas em “Como fazer?”).
+
+ ### Base do Projeto :
+ - O nosso BdDados Resilia é composto por 9 Tabelas, sendo elas; 
+ **Curso, Modulo, Turma, Monitor, Facilitador_Tech, facilitator_Soft, Alunos, Log e Patrocinador** 
+
+
 
