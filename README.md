@@ -37,7 +37,8 @@ estratégicos para a empresa."
 
 ### Detalhes do projeto:
  ● Após a criação do banco de dados, você e sua equipe deverão inserir dados para teste nesse banco.
-  ●Vocês deverão executar as consultas abaixo e apresentar seus resultados para as seguintes questões:
+
+●Vocês deverão executar as consultas abaixo e apresentar seus resultados para as seguintes questões:
 
 1. Selecionar a quantidade total de estudantes cadastrados no banco;
 
@@ -63,24 +64,27 @@ estratégicos para a empresa."
 
  ### Base do Projeto :
  - O nosso BdDados Resilia é composto por 9 Tabelas, sendo elas; 
+
  **Curso, Modulo, Turma, Monitor, Facilitador_Tech, facilitator_Soft, Alunos, Log e Patrocinador** 
 
 ### Modelagem do banco de Dados:
-![Modelagem do banco de dados ](https://github.com/luisgoni/Trabalho_Grupo_BDDados_Mod3REsilia/blob/main/trabalho_MOD3_Grupo/Criando_tabelas/diagrama%20com%20suas%20rela%C3%A7oes%20.png?raw=true)
+![Modelagem do banco de dados ](https://github.com/luisgoni/Trabalho_Grupo_BDDados_Mod3REsilia/blob/main/trabalho_MOD3_Grupo/Criando_tabelas/Imagens/Diagrama%20com%20suas%20rela%C3%A7oes%20.png?raw=true)
 
 ### Como utilizar nosso Banco de Dados;
 - Pré-requisitos
 PostgreSQL instalado e configurado
-PgAdmin instalado (disponível em: https://www.pgadmin.org/download/),
+PgAdmin instalado (disponível em: https://www.pgadmin.org/download/);
 - Faça o download do repositório ou clone-o para o seu ambiente local.
--  Uso
+
+### Uso
+
 Abra o pgAdmin e conecte-se ao seu servidor PostgreSQL.
 
  Crie um novo banco de dados no pgAdmin para usar no aplicativo.
 
- 
+ ![Criar Database](https://github.com/luisgoni/Trabalho_Grupo_BDDados_Mod3REsilia/blob/main/trabalho_MOD3_Grupo/Criando_tabelas/Imagens/Criar%20Database.png?raw=true)
 
- Certifique-se de ter três arquivos: um arquivo de criação das tabelas (CT_Tabela.sql), um arquivo de dados de inserção (PopulandoTabelas.sql) e outro com as perguntas e as respostas com as queries(Perguntas_Respostas.sql) Você pode nomeá-los como preferir, mas certifique-se de que os arquivos estejam no formato SQL e que sejam compatíveis com o PostgreSQL.
+ Certifique-se de ter três arquivos: um arquivo de criação das tabelas (CT_Tabela.sql), um arquivo de dados de inserção (PopulandoTabelas.sql) e outro com as perguntas e as respostas com as queries (Perguntas_Respostas.sql). Você pode nomeá-los como preferir, mas certifique-se de que os arquivos estejam no formato SQL e que sejam compatíveis com o PostgreSQL.
 
  Abra o arquivo CT_Tabela.sql, copie o conteudo do arquivo, cole e execute-o no pgAdmin para criar as tabelas no banco de dados que você criou.
 
@@ -89,6 +93,8 @@ Abra o pgAdmin e conecte-se ao seu servidor PostgreSQL.
  Após seguir essas etapas, seu banco de dados PostgreSQL estará criado e populado com as tabelas e dados especificados nos arquivos.
 
  Para responder as perguntas, copie apenas o conteúdo com a query de resposta e cole e execute no pgAdmin para visualizar seus resultados.
+
+
 
  
  
