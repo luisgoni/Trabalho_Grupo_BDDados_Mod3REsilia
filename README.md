@@ -78,12 +78,18 @@ Abra o pgAdmin e conecte-se ao seu servidor PostgreSQL.
 
  Crie um novo banco de dados no pgAdmin para usar no aplicativo.
 
- Certifique-se de ter tres arquivos: um arquivo de criação das tabelas (CT_Tabela.sql), e um arquivo de dados de população (PopulandoTabelas.sql), e outro com as perguntas e as queries() Você pode nomeá-los como preferir, mas certifique-se de que os arquivos estejam no formato SQL e que sejam compatíveis com o PostgreSQL.
+ 
+
+ Certifique-se de ter três arquivos: um arquivo de criação das tabelas (CT_Tabela.sql), um arquivo de dados de inserção (PopulandoTabelas.sql) e outro com as perguntas e as respostas com as queries(Perguntas_Respostas.sql) Você pode nomeá-los como preferir, mas certifique-se de que os arquivos estejam no formato SQL e que sejam compatíveis com o PostgreSQL.
 
  Abra o arquivo CT_Tabela.sql, copie o conteudo do arquivo, cole e execute-o no pgAdmin para criar as tabelas no banco de dados que você criou.
 
  Abra o arquivo PopulandoTabelas.sql, copie o conteudo do arquivo, cole e execute-o no pgAdmin para inserir os dados nas tabelas correpondentes.
 
  Após seguir essas etapas, seu banco de dados PostgreSQL estará criado e populado com as tabelas e dados especificados nos arquivos.
+
+ Para responder as perguntas, copie apenas o conteúdo com a query de resposta e cole e execute no pgAdmin para visualizar seus resultados.
+
+ 
  
 
