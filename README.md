@@ -72,6 +72,7 @@ estratégicos para a empresa."
 
 ### Como utilizar nosso Banco de Dados;
 - Pré-requisitos
+Visualizador de arquivo PDF (Ex: Adobe Reader, Foxit Reader e etc.)
 PostgreSQL instalado e configurado
 PgAdmin instalado (disponível em: https://www.pgadmin.org/download/);
 - Faça o download do repositório ou clone-o para o seu ambiente local.
