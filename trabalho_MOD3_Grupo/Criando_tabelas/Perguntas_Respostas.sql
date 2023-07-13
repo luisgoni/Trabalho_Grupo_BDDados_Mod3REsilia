@@ -65,6 +65,7 @@ AFTER INSERT OR UPDATE ON alunos
 FOR EACH ROW
 EXECUTE FUNCTION insert_log_on_insert_or_status_change();
 
+SELECT * FROM LOG;
 
 -- 5. Selecionar quais as predominâcias de Naturalidade dos alunos por região do pais observado em cada Curso;
 
